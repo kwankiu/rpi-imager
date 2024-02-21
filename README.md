@@ -1,11 +1,8 @@
-# Radxa Imager
-a customized version of rpi-imager with custom theme color, device name and logo for Radxa
+# Customizing rpi-imager
+This repository contains a script named `patch-rpi-imager` that allows you to customize the Raspberry Pi Imaging Utility (`rpi-imager`) before building it from source.
 
 ![radxa imager screenshot](https://forum.radxa.com/uploads/default/original/2X/c/c8d8b1e9842cf1e8289f91d4df632cb51ea37ffc.png)
-
-## Customizing rpi-imager
-
-This repository contains a script named `patch-rpi-imager` that allows you to customize the Raspberry Pi Imaging Utility (`rpi-imager`) before building it from source.
+a customized version of rpi-imager with custom theme color, device name and logo for Radxa
 
 ## Usage
 
